@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=PyDelhiConf App
+Comment=a minimal Markdown reading & writing app. Change Log: (https://typora.io/windows/dev_release.html)
+Exec=python /usr/bin/pydelhiconf/main.py -m screen:droid2,portrait -m inspector
+Icon=/usr/share/icons/pydelhi.png
+Type=Application
+StartupNotify=true
+Categories=Other;
